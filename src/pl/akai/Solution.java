@@ -1,5 +1,8 @@
 package pl.akai;
 
+//Michał Pluciński 2023 
+// 3 sem INF 
+
 import java.util.ArrayList;
 
 public class Solution {
