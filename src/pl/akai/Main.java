@@ -32,7 +32,7 @@ public class Main {
         */
 
 
-        Solution solution = new Solution(); // ~using only my noted and previously built programs
+        Solution solution = new Solution();
         solution.solve(sentences);
     }
 
