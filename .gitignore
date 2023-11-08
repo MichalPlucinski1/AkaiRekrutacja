@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
 .idea
-.iml
+
 !**/src/main/**/out/
 !**/src/test/**/out/
 
@@ -16,6 +16,8 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+*.iml
+
 
 ### NetBeans ###
 /nbproject/private/
